@@ -1,6 +1,6 @@
 <h1 align="center">React Dogs</h1>
 
-<p align="center">Projeto realizado no curso de React Completo da Origamid</p>
+<p align="center">Projeto realizado no curso de React Completo da <a href="https://www.origamid.com">Origamid<a/></p>
 
 ### 🛠 Tecnologias
 
